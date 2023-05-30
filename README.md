@@ -1,6 +1,6 @@
 <div align="center">
     <img src="banner.jpg">
-    <p><i>A powerful  API created to see your Discord Token on your phone</i></p>
+    <p><i>A API created to see your Discord Token on your phone</i></p>
     <h5><a href="https://discord.gg/QqSds9fVwR">Discord</a></h5>
 </div>
 <hr>
